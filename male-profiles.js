@@ -119,7 +119,7 @@ const maleProfiles = [
     },
 			{
         id: 'm7',
-        name: '남자 7호',
+        name: '남자 7호(매칭 중)',
         age: '96 년생',
         job: '개발자',
         location: '관악구',
