@@ -5,7 +5,7 @@
 const femaleProfiles = [
     {
         id: 'f1',
-        name: '여자 1호 (매칭중)',
+        name: '여자 1호(매칭중)',
         age: '93 년생',
         job: '검안사',
         location: '광진구',
