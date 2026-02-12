@@ -135,5 +135,24 @@ const maleProfiles = [
         idealSmoking: '무관',
         idealType: '친구처럼 편한 사람, 애교많은사람',
         contact: '주선자: 혜정'
+    },
+			{
+        id: 'm8',
+        name: '남자 8호',
+        age: '90 년생',
+        job: '수학강사',
+        location: '성동구',
+        hobby: '전시 관람, 보드게임, 카페/맛집 탐방, 여행, 산책',
+        // 상세 정보
+        height: '186cm',
+        religion: 'X',
+        smoking: 'X',
+        personality: '- 주로 들어주는 편이지만, 말할때는 조리있게 하는 편 <br>- 감정 기복이 적고, 안정적인 편 <br>- 계획적인 편이지만 즉흥적일 때도<br>- 책임감 있고 꾸준한 스타일',
+        intro: '',
+        // 이상형 정보
+        idealAge: '91년생~아래',
+        idealSmoking: '비흡연',
+        idealType: '외적:<br> - 여성스러운 분위기<br> - 밝고 건강한 느낌<br>내적:<br> - 밝고 긍정적인 성향<br> - 대화센스 있는 분<br> - 서로 존중하며 맞춰 나갈 수 있는 분',
+        contact: '주선자: 구현'
     }
 ];
