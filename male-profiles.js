@@ -5,7 +5,7 @@
 const maleProfiles = [
     {
         id: 'm1',
-        name: '남자 1호 (매칭 중)',
+        name: '남자 1호',
         age: '91 년생',
         job: '사업<br>(기술영업 매니저로 가업승계 중,임대사업 및 태양광 발전업 병행)',
         location: '안양',
@@ -119,7 +119,7 @@ const maleProfiles = [
     },
 			{
         id: 'm7',
-        name: '남자 7호(매칭 중)',
+        name: '남자 7호',
         age: '96 년생',
         job: '개발자',
         location: '관악구',
