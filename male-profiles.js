@@ -63,7 +63,7 @@ const maleProfiles = [
 			{
         id: 'm4',
         name: '남자 4호',
-        age: '94 년생',
+        age: '95 년생',
         job: '제약회사 근무',
         location: '양평 거주 / 이천 근무',
         hobby: '러닝, 헬스, 유도, 홈카페, 카페 탐방, 반려견과 드라이브',
