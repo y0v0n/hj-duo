@@ -160,7 +160,7 @@ const maleProfiles = [
         name: '남자 9호',
         age: '93 년생',
         job: '콘텐츠 PD',
-        location: '성동구',
+        location: '관악구',
         hobby: '없음, 여자친구랑 시간 보내는거 좋아해요',
         // 상세 정보
         height: '183cm',
