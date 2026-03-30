@@ -173,5 +173,24 @@ const maleProfiles = [
         idealSmoking: '무관',
         idealType: '함께 있을 때 편안한 사람이 좋고, 조건이나 스펙보다는 ‘느낌’과 케미를 더 중요하게 생각합니다.<br>성격적으로는 강아지같이 애교 많고 표현 많이 하시는분 좋아합니다.<br>외적으로는 마르신 분,  두상이 작고 귀여우신 분(모자 잘어울리는 분) 좋아합니다.',
         contact: '주선자: 초희'
+    },
+			{
+        id: 'm10',
+        name: '남자 10호',
+        age: '93 년생',
+        job: '프로그램 개발자',
+        location: '금천구',
+        hobby: '러닝',
+        // 상세 정보
+        height: '170cm',
+        religion: '없음',
+        smoking: '노담',
+        personality: 'MBTI : ENTJ -> I 로 변하는 중인 듯?<br>성격: 활발한 성격. 집돌이 & 활동적 둘다 좋음.',
+        intro: '',
+        // 이상형 정보
+        idealAge: '90-97',
+        idealSmoking: '절대 불가',
+        idealType: '- 취미가 잘 맞고, 티키타가가 잘 맞는사람<br>- 키는 나보다 작으면 좋겠고, 통통하지 않은 사람',
+        contact: '주선자: 준'
     }
 ];
