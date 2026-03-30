@@ -154,6 +154,25 @@ const femaleProfiles = [
         idealSmoking: '비흡연',
         idealType: '다정하고 나랑 재미가 통하는 사람. 너무 과묵하지 않은 사람',
         contact: '주선자: 혜정'
+    },
+	{
+        id: 'f10',
+        name: '여자 10호',
+        age: '96 년생',
+        job: '컨설턴트',
+        location: '영등포구',
+        hobby: '베이스 연주',
+        // 상세 정보
+        height: '159cm',
+        religion: '무교',
+        smoking: '전자담배',
+        personality: '외모 : 아랍상, 피부 하얌<br>성격 : 장점) 무던하고 상대를 배려하는 성격, 밝음<br>단점)아저씨같음<br>MBTI : ESTP<br>특이사항 : 오타쿠',
+        intro: '',
+        // 이상형 정보
+        idealAge: '92 아래로',
+        idealSmoking: '전자담배까지',
+        idealType: '외모 : 키 크신 분<br>성격 : 술을 잘 먹진 못해도 즐기시는 분',
+        contact: '주선자: 경서'
     }
 ];
 
