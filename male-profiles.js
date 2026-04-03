@@ -176,7 +176,7 @@ const maleProfiles = [
     },
 			{
         id: 'm10',
-        name: '남자 10호',
+        name: '남자 10호(매칭중)',
         age: '93 년생',
         job: '프로그램 개발자',
         location: '금천구',
