@@ -137,7 +137,7 @@ const femaleProfiles = [
         contact: '주선자: 혜정'
     },
 	{
-        id: 'f9(매칭중)',
+        id: 'f9',
         name: '여자 9호',
         age: '92 년생',
         job: '개발자',
@@ -157,7 +157,7 @@ const femaleProfiles = [
     },
 	{
         id: 'f10',
-        name: '여자 10호(매칭중)',
+        name: '여자 10호',
         age: '96 년생',
         job: '컨설턴트',
         location: '영등포구',
