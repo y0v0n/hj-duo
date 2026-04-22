@@ -60,7 +60,7 @@ const maleProfiles = [
         idealType: '머리가 작고 비율 좋은, 여성스런 옷차림',
         contact: '주선자: 형기'
     },
-			{
+/*			{
         id: 'm4',
         name: '남자 4호',
         age: '95 년생',
@@ -78,7 +78,7 @@ const maleProfiles = [
         idealSmoking: '전담까지 가능',
         idealType: '아담하고 티키타카 잘 되는 긍정적인 사람',
         contact: '주선자: 초희'
-    },
+    },*/
 			{
         id: 'm5',
         name: '남자 5호',
@@ -156,7 +156,7 @@ const maleProfiles = [
         contact: '주선자: 구현'
     },
 			{
-        id: 'm9(매칭중)',
+        id: 'm9',
         name: '남자 9호',
         age: '93 년생',
         job: '콘텐츠 PD',
@@ -176,7 +176,7 @@ const maleProfiles = [
     },
 			{
         id: 'm10',
-        name: '남자 10호(매칭중)',
+        name: '남자 10호',
         age: '93 년생',
         job: '프로그램 개발자',
         location: '금천구',
@@ -192,5 +192,43 @@ const maleProfiles = [
         idealSmoking: '절대 불가',
         idealType: '- 취미가 잘 맞고, 티키타가가 잘 맞는사람<br>- 키는 나보다 작으면 좋겠고, 통통하지 않은 사람',
         contact: '주선자: 준'
+    },
+			{
+        id: 'm11',
+        name: '남자 11호',
+        age: '88 년생',
+        job: '산업잠수사',
+        location: '인천',
+        hobby: '맛집 탐방이나 드라이브',
+        // 상세 정보
+        height: '186cm',
+        religion: 'X',
+        smoking: 'X',
+        personality: 'INFP. 186/98 운동선수 출신 산업잠수사입니다.<br>구릿빛 피부와 듬직한 체격을 가졌지만, 전직 아쿠아리스트인 만큼 성격은 섬세하고 무던합니다. <br>비흡연자이며, 술은 즐기지 않지만 분위기 좋은 곳에서 와인 한 잔 정도는 함께 할 수 있습니다.<br>든든한 버팀목이 되어드릴게요. 원하시면 스쿠버 다이빙도 기초부터 직접 가르쳐 드릴 수 있습니다! 맛집 탐방이나 드라이브 같이 가요.',
+        intro: '',
+        // 이상형 정보
+        idealAge: '무관',
+        idealSmoking: '무관',
+        idealType: '여리여리한 스타일. <br>밝고 긍정적인 에너지로 함께 웃으며 대화의 결이 맞는 분이면 좋겠습니다.',
+        contact: '주선자: 록하'
+    },
+			{
+        id: 'm12',
+        name: '남자 12호',
+        age: '94 년생',
+        job: 'e스포츠 사업 PM',
+        location: '금천구',
+        hobby: '게임, 방탈출, 요리, 밴드',
+        // 상세 정보
+        height: '173cm',
+        religion: 'X',
+        smoking: 'X',
+        personality: '직업은 플랫폼 회사에서 e스포츠 사업 PM으로 일하고 있어요. <br>취미는 게임, 방탈출, 요리, 밴드 등 다양하게 즐기고 있고 새로운 취미를 시작하는 것도 좋아해요.<br>업무 특성 상 근무 일정이 다소 들쑥날쑥하지만 비수기에는 3일 이상 장기휴가도 사용할 수 있는 장점도 있습니다.<br>성격은 다정하고 무던한 편이며 MBTI는 INTJ랑 INFJ 왔다갔다해요.<br>안정적인 장기연애를 선호하는 여성분과 잘 맞을 것 같습니다!',
+        intro: '',
+        // 이상형 정보
+        idealAge: '99-92',
+        idealSmoking: '비흡연 희망',
+        idealType: '활발하고 배려심 깊은 분, 마르지 않으신 분, 자신의 일에 프로 의식을 갖고 열심히 사시는 분들에게 매력을 느끼는 편입니다.',
+        contact: '주선자: 초'
     }
 ];
