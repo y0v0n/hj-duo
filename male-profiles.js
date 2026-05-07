@@ -195,7 +195,7 @@ const maleProfiles = [
     },
 			{
         id: 'm11',
-        name: '남자 11호',
+        name: '남자 11호(매칭중)',
         age: '88 년생',
         job: '산업잠수사',
         location: '인천',
