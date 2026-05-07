@@ -173,6 +173,25 @@ const femaleProfiles = [
         idealSmoking: '전자담배까지',
         idealType: '외모 : 키 크신 분<br>성격 : 술을 잘 먹진 못해도 즐기시는 분',
         contact: '주선자: 경서'
+    },
+	{
+        id: 'f11',
+        name: '여자 11호(매칭)',
+        age: '95 년생',
+        job: '대학병원 상근직 간호사 ',
+        location: '동대문구',
+        hobby: '자전거 타기,산책(걷는거 좋아함), 전시회 관람',
+        // 상세 정보
+        height: '168cm',
+        religion: '무교',
+        smoking: '비흡연',
+        personality: '책임감이 강하고 어떤분야든 도전해보는거 좋아함(부수입,경제,여행,취미등) 처음에는 낯가리지만 티키타카 되면 개그우먼되는 성격<br>상대방 배려하고 잘 맞춰주는 섬세한 ENFJ',
+        intro: '',
+        // 이상형 정보
+        idealAge: '94-90',
+        idealSmoking: '비흡연',
+        idealType: '다정하고 함께 있을 때 편안한 분위기를 만들 수 있는 듬직한 사람',
+        contact: '주선자: 현서'
     }
 ];
 
