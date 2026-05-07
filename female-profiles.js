@@ -22,7 +22,7 @@ const femaleProfiles = [
         idealType: '덩치있고 대화가 잘 통하는 다정한 사람<br>같이 있으면 마음이 편한 사람',
         contact: '주선자: 혜정'
     },
-    {
+    /*{
         id: 'f2',
         name: '여자 2호',
         age: '92 년생',
@@ -40,7 +40,7 @@ const femaleProfiles = [
         idealSmoking: '비흡연',
         idealType: '',
         contact: '주선자: 송이'
-    },
+    },*/
 			{
         id: 'f3',
         name: '여자 3호',
@@ -60,7 +60,7 @@ const femaleProfiles = [
         idealType: '자상하고 섬세한 사람, 똑똑하지만 허세 없는 사람 :)',
         contact: '주선자: 현서'
     },
-			{
+			/*{
         id: 'f4',
         name: '여자 4호',
         age: '92 년생',
@@ -78,7 +78,7 @@ const femaleProfiles = [
         idealSmoking: '비흡연',
         idealType: '대화가 잘 통하고 내가 보기에 잘생긴 사람',
         contact: '주선자: 은정'
-    },
+    },*/
 			{
         id: 'f5',
         name: '여자 5호',
@@ -98,7 +98,7 @@ const femaleProfiles = [
         idealType: '다정 다감한 성격, 성실하고 묵묵히 자기할일 하는 사람 키큰사람(174이상)',
         contact: '주선자: 현서'
     },
-			{
+			/*{
         id: 'f6',
         name: '여자 6호',
         age: '99 년생',
@@ -116,7 +116,7 @@ const femaleProfiles = [
         idealSmoking: '비흡연',
         idealType: '추구하는 이상형은 제가 편안하고 친구같은 연애를 추구하는 편이여서 같은 의견을 가지신 분이면 좋을것 같아요<br> 외적으론 두부상에 키크신분을 선호하는 편이며<br> 성격은 대화가 잘 통하고 다정하신 분이였으면 좋겠습니다 :)',
         contact: '주선자: 현서'
-    },
+    },*/
 			{
         id: 'f7',
         name: '여자 7호',
