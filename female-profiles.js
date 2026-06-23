@@ -119,7 +119,7 @@ const femaleProfiles = [
     },*/
 			{
         id: 'f7',
-        name: '여자 7호',
+        name: '여자 7호(매칭)',
         age: '91 년생',
         job: '캐릭터 IP 사업부 상품기획 MD',
         location: '동작구',
